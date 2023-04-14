@@ -1,2 +1,2 @@
-# next-greater-element-to-the-right-gfg
+# stacks problem
 gfg problem
